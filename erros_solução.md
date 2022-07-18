@@ -1,0 +1,1 @@
+[Solução erro _fatal: refusing to merge unrelated histories_](https://community.umbler.com/br/t/resolvendo-o-erro-fatal-refusing-to-merge-unrelated-histories-no-git/657)
