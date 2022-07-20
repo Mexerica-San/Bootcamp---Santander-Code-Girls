@@ -12,11 +12,14 @@
   1) Você escreve o seu código-fonte (arquivo com a extensão .java). 
   2) Você utiliza o JDK para compilar o seu código-fonte e gerar o arquivo bytecode (arquivo com a extensão .class). 
   3) Para executar o seu programa, a JVM lê o seu arquivo compilado (.class) e as bibliotecas padrões do Java que estão no JRE.  
-  4) Pronto, seu programa está rodando.  
- [Fonte](http://www.mauda.com.br/?p=805)  
- [Fonte](https://dicasdejava.com.br/qual-a-diferenca-entre-jdk-jre-e-jvm/)
+  4) Pronto, seu programa está rodando. 
+    
  ![Etapas de tradução para programa Java](http://videos.web-03.net/artigos/Higor_Medeiros/Execucao_Programas_Java/Execucao_Programas_Java1.jpg)
- ![Arquitetura Geral da linguagem Java](https://lh3.googleusercontent.com/-Jt7Ul-mEQac/Vjv3JFXTmGI/AAAAAAAAAQo/jAoHdtCIqN0/s1024-Ic42/ArquiteturaJava-Macro.png)
+ ![Arquitetura Geral da linguagem Java](https://lh3.googleusercontent.com/-Jt7Ul-mEQac/Vjv3JFXTmGI/AAAAAAAAAQo/jAoHdtCIqN0/s1024-Ic42/ArquiteturaJava-Macro.png) 
+ [Fonte](http://www.mauda.com.br/?p=805)  
+ [Fonte](https://dicasdejava.com.br/qual-a-diferenca-entre-jdk-jre-e-jvm/)  
+ [Fonte](https://www.devmedia.com.br/processo-de-traducao-e-execucao-de-programas-java/26915)  
+
 
 
 
