@@ -1,5 +1,11 @@
-# Sobre o funcionamento do JAVA:  
- *Bytecode:* **Bytecode** È um formato de cÛdigo intermedi·rio entre o cÛdigo fonte, o texto que o programador consegue manipular, e o cÛdigo de m·quina, que o computador consegue executar.  
-Na plataforma Java, o **bytecode** È interpretado por uma m·quina virtual Java (JVM). A portabilidade do cÛdigo Java È obtida ‡ medida que m·quinas virtuais Java est„o disponÌveis para diferentes plataformas. Assim, o cÛdigo Java que foi compilado em uma m·quina pode ser executado em qualquer m·quina virtual Java, independentemente de qual seja o sistema operacional ou o processador que executa o cÛdigo: 
-![Processo JAVA](https://www.dca.fee.unicamp.br/cursos/PooJava/javaenv/java_mec.gif)  
+# Sobre o funcionamento JAVA:  
+### Bytecode  
+ *Bytecode* √© um formato de c√≥digo intermedi√°rio entre o c√≥digo fonte, o texto que o programador consegue manipular, e o c√≥digo de m√°quina, que o computador consegue executar. Na plataforma Java, o *bytecode* √© interpretado por uma m√°quina virtual Java (JVM). A portabilidade do c√≥digo Java √© obtida √† medida que m√°quinas virtuais Java est√£o dispon√≠veis para diferentes plataformas. Assim, o c√≥digo Java que foi compilado em uma m√°quina pode ser executado em qualquer m√°quina virtual Java, independentemente de qual seja o sistema operacional ou o processador que executa o c√≥digo:  
+[Fonte](https://www.dca.fee.unicamp.br/cursos/PooJava/javaenv/bytecode.html) 
+![Processo JAVA](https://www.dca.fee.unicamp.br/cursos/PooJava/javaenv/java_mec.gif) 
+#### Arquitetura Java  
+ A
+
+
+
  
